@@ -14,3 +14,13 @@ MailThereum OnChain Events provides a transparent and secure platform for event 
 - Transaction Fees: The platform could charge a transaction fee for each ticket sale and payment made on the platform. This fee could be a percentage of the total transaction amount or a flat fee.
 
 - Sponsorship and Advertising: The platform could offer advertising opportunities to event sponsors. Sponsors could place ads on the platform or within event invitations and updates, providing an additional revenue stream for the platform.
+
+# How it's Made?
+
+Using Mailchain to send and receive event notifications via email is a great way to keep attendees informed and engaged throughout the event planning process. Mailchain provides a secure and decentralized way to send messages via email, which can help to ensure that attendees receive important updates and reminders about the event.
+
+Integrating zkSync for zero-knowledge proof. This will allow attendees to prove their attendance at the event without revealing any additional personal information. Using zkSync ensures that the proof of attendance is secure and tamper-proof, while also providing a high level of privacy and security for attendees.
+
+Finally, using Ant Design for the user interface (UI) Ant Design provides a collection of well-designed UI components that can help to streamline the event management process and provide a seamless experience for both event organizers and attendees. The UI is an important aspect of any platform, and using Ant Design can help to ensure that your platform is easy to use and visually appealing.
+
+Overall, your approach to building your event management platform using Mailchain, zkSync, and Ant Design is a solid one. By leveraging these technologies, you can create a secure, efficient, and user-friendly platform that can help to streamline the event planning process and provide attendees with a positive experience.
