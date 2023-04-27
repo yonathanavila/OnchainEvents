@@ -1,5 +1,7 @@
 # Project Description
 
+License MIT 
+
 MailThereum OnChain Events is a blockchain-based platform designed to streamline the event planning and management process while providing attendees with a secure and transparent experience. The platform is built on the Ethereum blockchain, ensuring the immutability and integrity of all event data.
 
 The platform allows event organizers to create and manage events, send invitations and updates to attendees via email, and track attendance and payments in real-time. Attendees can pay for tickets and other event-related expenses using cryptocurrencies, eliminating the need for traditional payment methods and providing a more secure and convenient payment option.
