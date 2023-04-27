@@ -25,6 +25,8 @@ Finally, using Ant Design for the user interface (UI) Ant Design provides a coll
 
 Overall, your approach to building your event management platform using Mailchain, zkSync, and Ant Design is a solid one. By leveraging these technologies, you can create a secure, efficient, and user-friendly platform that can help to streamline the event planning process and provide attendees with a positive experience.
 
+### Licensing Terms
+
 OnChainEvents is a fully open-source software program licensed pursuant to the GNU General Public License v3.0.
 
 ## License
