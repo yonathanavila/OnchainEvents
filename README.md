@@ -1,7 +1,5 @@
 # Project Description
 
-License MIT 
-
 MailThereum OnChain Events is a blockchain-based platform designed to streamline the event planning and management process while providing attendees with a secure and transparent experience. The platform is built on the Ethereum blockchain, ensuring the immutability and integrity of all event data.
 
 The platform allows event organizers to create and manage events, send invitations and updates to attendees via email, and track attendance and payments in real-time. Attendees can pay for tickets and other event-related expenses using cryptocurrencies, eliminating the need for traditional payment methods and providing a more secure and convenient payment option.
@@ -26,3 +24,7 @@ Integrating zkSync for zero-knowledge proof. This will allow attendees to prove 
 Finally, using Ant Design for the user interface (UI) Ant Design provides a collection of well-designed UI components that can help to streamline the event management process and provide a seamless experience for both event organizers and attendees. The UI is an important aspect of any platform, and using Ant Design can help to ensure that your platform is easy to use and visually appealing.
 
 Overall, your approach to building your event management platform using Mailchain, zkSync, and Ant Design is a solid one. By leveraging these technologies, you can create a secure, efficient, and user-friendly platform that can help to streamline the event planning process and provide attendees with a positive experience.
+
+## License
+
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
